@@ -1,4 +1,6 @@
 <p align="center">
+
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated Ignoregen banner" width="100%"></p>
   <img src="assets/banner.svg" alt="ignoregen" width="100%">
 </p>
 
